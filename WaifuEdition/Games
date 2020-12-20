@@ -1,0 +1,37 @@
+local Game = game.PlaceId
+
+if Game == 537413528 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/LQGDQ05X"))()
+else
+    if Game == 338521019 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/HMw6TSdj"))()
+else
+    if Game == 3527629287 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/136G87vt"))()
+else
+    if Game == 155615604 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/sSc15BuM"))()
+else
+    if Game == 3072832953 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/SWQSnM50"))()
+else
+    if Game == 1962086868 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/FdQqckyp"))()
+else
+    if Game == 3652625463 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/TNusK8Np"))()
+else
+    if Game == 3587619225 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/nFKBbW4x"))()
+else
+    if Game == 5265888165 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/jgMrRVKA"))()
+end
+end
+end
+end
+end
+end
+end
+end
+end
